@@ -1,0 +1,2 @@
+vortex.data.microsoft.com
+dc.services.visualstudio.com
